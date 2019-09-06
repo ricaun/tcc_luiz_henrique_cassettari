@@ -8,7 +8,10 @@ O projeto tinha como objetivo controlar a velocidade de um motor de corrente con
 
 Pena que o projeto não esta mais em funcionamento na faculdade, segue o vídeo de como era o funcionamento.
 
-<video src="TCC Funcionamento.mp4" width="640" height="480" controls preload></video>
+<video width="640" height="480" controls preload> 
+    <source src="TCC Funcionamento.mp4"></source>
+    <source src="TCC Funcionamento.webm"></source> 
+</video>
 
 ## Arquivos
 
